@@ -122,4 +122,4 @@ Example output :
 
 This number is a 6
 
-![](example_image?raw=true)
+![](example_image.png?raw=true)
